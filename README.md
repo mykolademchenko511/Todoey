@@ -1,19 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Todoey
+Todo-list app built with MVC, Realm, SwipeCellKit and ChameleonFramework.
+# Preview:
+https://user-images.githubusercontent.com/119513590/230640540-83a6061f-db6b-404f-8956-3080a11c21ea.mp4
+# Done in this project:
+MVC  
+Perform CRUD operations
+Implement UISearchBar and query Realm database with NSPredicate
+Make cells swipeable with SwipeCellKit
+Make our UITableViews inherit SwipeCellKit functionality by subclassing them.
+Colorize app with CHameleonKit
 
 
-# Todoey ✓
-
-## Our Goal
-
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
-
-
-## What you will create
-
-A todolist app to keep track of all your tasks.
-
-
->This is a companion project to The App Brewery's Complete iOS Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+ 
 
